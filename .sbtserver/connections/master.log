@@ -1,0 +1,7 @@
+New log file opened at Wed Aug 10 00:42:33 EDT 2016 by 1686@Marcs-MacBook-Pro.local
+Taking next connection to: 54240
+New client attempting to connect on port: 54241-54240
+  Address = /192.168.0.105:54240
+This client on port 54241 has uuid a80f4a15-2cc2-47e1-a87b-6c2a6301163d configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-a80f4a15-2cc2-47e1-a87b-6c2a6301163d
+Taking next connection to: 54240
